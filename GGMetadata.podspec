@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.authors       = {'Rudd Fawcett' => 'rudd.fawcett@gmail.com', 'Joseph Wain' => 'jpwain@gmail.com'}
   s.platform     = :osx, '10.8'
   s.source       = {:git => 'https://github.com/glyphish/metadata.git', :branch => 'master'}
-  s.source_files  = 'metadata/*'
+  s.osx.resource_bundle = {'metadata' => 'metadata/*.gmetadata' }
   s.requires_arc = true
 end
