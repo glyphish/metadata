@@ -123,7 +123,7 @@ If everything checks out, and we like your pull request, we'll merge it to `revi
 
 ## Questions?
 
-- [Open an issue](https://github.com/metadata/issues).
+- [Open an issue](https://github.com/glyphish/metadata/issues).
 
 ## Connect
 - Follow [@Glyphish on Twitter](https://twitter.com/glyphish).
